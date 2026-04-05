@@ -1,11 +1,14 @@
 package gestion_caisse;
 
 import javax.swing.*;
+<<<<<<< HEAD
 
 import view.GestionProduitUI;
 import view.RechercheUI;
 import view.VenteUI;
 
+=======
+>>>>>>> origin/main
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
